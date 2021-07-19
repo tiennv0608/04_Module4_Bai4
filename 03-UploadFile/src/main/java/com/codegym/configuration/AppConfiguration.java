@@ -34,7 +34,6 @@ public class AppConfiguration extends WebMvcConfigurerAdapter implements Applica
         this.applicationContext = applicationContext;
     }
 
-    //Cấu hình Thymleaf
     @Bean
     public SpringResourceTemplateResolver templateResolver() {
         SpringResourceTemplateResolver templateResolver = new SpringResourceTemplateResolver();

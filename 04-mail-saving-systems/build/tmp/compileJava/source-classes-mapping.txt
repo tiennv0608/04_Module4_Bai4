@@ -1,0 +1,4 @@
+com/codegym/model/MailSetting.java
+ com.codegym.model.MailSetting
+com/codegym/controller/MailSettingController.java
+ com.codegym.controller.MailSettingController
